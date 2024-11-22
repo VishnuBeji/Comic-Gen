@@ -1,6 +1,6 @@
-# Pokemon Story Image Generator
+# Comic Strip Generator
 
-This project generates extended scenes from the Pokémon story, visualizes them in the style of anime comic strips, and combines them into a unified image. The generation pipeline leverages advanced NLP and image generation models to produce creative outputs.
+This project generates extended scenes from any given story, visualizes them in the style of anime comic strips, and combines them into a unified image. The generation pipeline leverages advanced NLP and image generation models to produce creative outputs. We have a RAG based model that will enhance the story using a vectorised DB of books and scripts.
 
 ## Models Used
 
